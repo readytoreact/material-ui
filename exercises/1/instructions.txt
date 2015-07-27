@@ -1,0 +1,4 @@
+1. Create a CARD
+2. Put a HEADER
+3. Put an image
+4. Put a description
